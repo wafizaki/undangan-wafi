@@ -189,3 +189,6 @@ button {
 button:hover {
   background-color: rgb(121, 67, 67);
 }
+audio {
+  width: 100%;
+}
